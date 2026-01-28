@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 90, 90);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#id2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id3 {
+    font-size: 24px;
+}
+
+#id4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
